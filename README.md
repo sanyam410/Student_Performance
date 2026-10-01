@@ -6,7 +6,7 @@
 
 Predicting a student's **math score** from demographic, educational and test-preparation attributes, and finding out which of nine regression algorithms generalises best to unseen students.
 
-![Model comparison](images/model_comparison.png)
+![Model comparison](model_comparison.png)
 
 ## Key Findings
 
